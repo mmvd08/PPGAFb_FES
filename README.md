@@ -3,6 +3,7 @@ Extraccción y selección de características para algoritmos de detección de F
 
 La mayoría de las características extraídas están basadas en parámetros estadísticos a partir de características temporales y morfológicas. Los parámetros estadísticos empleados fueron: valor máximo (Vmax), valor mínimo (Vmin), rango intercuartil (IQR), desviación estándar (Std), mediana (Vmd), media (Vav), coeficiente de asimetría (ca) y curtosis (kurt). En la figura se muestran las 46 características extraídas para cada ventana de análisis.
 
+![Drawing2](https://github.com/mmvd08/PPGAFb_FES/assets/94330777/927ae19f-68f4-4c0e-8829-52bb34c80263)
 
 Donde:
 - PP- Intervalo pico a pico
