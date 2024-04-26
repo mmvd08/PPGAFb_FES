@@ -10,7 +10,7 @@ Donde:
 - m1- Pendiente de subida de las ondas sistólicas de la señal en la ventana de análisis
 - m2- Pendiente de adelanto, formada por el inicio de una onda y el pico sistólico de la siguiente
 - DP- Densidad espectral de potencia
-- Vpp- Variación de PP: Se divide el vector de los PP de la ventana de análisis entre cada elemento del propio vector. El resultado se almacena en una matriz de la que se resta la matriz identidad y el resultado se eleva al cuadrado. Luego se halla la suma de cada fila, se buscan máximo y el mínimo y se determina su diferencia.
+- $V_pp$- Variación de PP: Se divide el vector de los PP de la ventana de análisis entre cada elemento del propio vector. El resultado se almacena en una matriz de la que se resta la matriz identidad y el resultado se eleva al cuadrado. Luego se halla la suma de cada fila, se buscan máximo y el mínimo y se determina su diferencia.
 - Vp- Variación de la amplitud de los picos: Emplea el procedimiento descrito anteriormente con la diferencia que se emplea el vector con la amplitud de los picos de la ventana de análisis en lugar del vector de los PP.
 - E- La entropía condicional corregida (CCE) (Chauhan, 2021)
 - FmDP- Frecuencia de la media de la densidad espectral
