@@ -3,7 +3,7 @@
 """
 Created on Sun Aug  7 10:46:38 2022
 
-@author: aasl
+@author: mmvd08  email: mmvd08@nauta.cu
 """
 
 import caracteristicas as caract
